@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Murphy Liang (GouGuo777)
 
-<!--
-**GouGuo777/GouGuo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 Frontend / Full-stack Developer · 14 years in production software · Remote (UTC+8)
 
-Here are some ideas to get you started:
+- 🔗 Built GameFi frontends on **World App / World Chain** — products processing **~10% of all World Chain transactions**
+- 🎮 Solo-shipped full-stack HTML5 mini-games at **~30k DAU** (frontend + backend + ops)
+- 🤖 AI-native workflow: Claude Code / Cursor / Copilot / Codex — I drive architecture & review, agents implement
+- 📱 Before Web3: 10 years Android leadership, fintech apps with **40M+ users**
+- 🌏 Open to remote full-time & contract · Thailand DTV holder · EU/US evening overlap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact:** liangfeixp@gmail.com · Telegram [@ABoom777](https://t.me/ABoom777)
+
+---
+
+### Tech
+
+`React` `Next.js` `TypeScript` `ethers.js / wagmi` `World App SDK` `TON Connect` `Node.js` `Python` `Android (Java/Kotlin)`
